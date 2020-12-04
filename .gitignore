@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # Large File Ignore
-ratings.csv
+#ratings.csv
